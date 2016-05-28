@@ -1,0 +1,10 @@
+com\cdogs\ssm\mapper\UserMapper.class
+com\cdogs\ssm\pojo\UserExample$Criterion.class
+com\cdogs\ssm\pojo\UserExample$Criteria.class
+com\cdogs\ssm\pojo\User.class
+com\cdogs\ssm\service\UserServiceImpl.class
+com\cdogs\ssm\controller\UserController.class
+com\cdogs\ssm\pojo\Mail.class
+com\cdogs\ssm\pojo\UserExample$GeneratedCriteria.class
+com\cdogs\ssm\pojo\UserExample.class
+com\cdogs\ssm\service\UserService.class
